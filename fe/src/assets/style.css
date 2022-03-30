@@ -1,0 +1,20 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+img {
+    width:350px;
+    height:250px}
+    .nav-link {
+        border-bottom: 5px solid transparent;
+      }
+      
+      .nav-link:hover {
+        border-bottom: 2px solid black;
+      }
